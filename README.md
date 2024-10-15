@@ -1,4 +1,4 @@
-# Code for Brain structure and activity predicting cognitive maturation in adolescence
+# Code and data for: *Brain structure and activity predicting cognitive maturation in adolescence*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.10494534-orange.svg)](https://doi.org/10.5281/zenodo.13937106)
