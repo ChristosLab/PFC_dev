@@ -42,24 +42,26 @@ xtable
 ## Reproducing the analyses
 
 ### Raw data processing
-Scripts under the following folders are used to read raw data in .mat format from folder **data_raw** to generate plots or plotting data for subsequent useage:
+Scripts under the following folders are used to read raw data in .mat format from folder [data_raw](data_raw) to generate plots or plot data for subsequent use:
 
-[behavior](/guides/content/editing-an-existing-page#modifying-front-matter)
+[behavior](behavior)
 
-[firingmetrics](/guides/content/editing-an-existing-page#modifying-front-matter)
+[firingmetrics](firingmetrics)
 
-[dimensionality](/guides/content/editing-an-existing-page#modifying-front-matter)
+[dimensionality](dimensionality)
 
-Read comments in each matlab scripts for more info.
+Read comments in each Matlab scripts for more info.
+
 ### GAM fitting and plotting
-R notebooks in the folder [GAM](/guides/content/editing-an-existing-page#modifying-front-matter) are used to read data in .csv format from folder **data** fit GAM models and plot developmental trajectories in the paper.
-Read comments in each R nokebook scripts for more info.
+R notebooks in the folder [GAM](GAM) are used to read data in .csv format from folder [data](GAM/data) to fit GAM models and plot developmental trajectories in the paper.
+
+Read comments in each R notebook for more info.
+
 Before use, change the path to where the data is located.
 
 Please make sure to thoroughly read the comments in the code to understand the functionality of each part. If you encounter any problems, please contact author [Junda Zhu](mailto:junda.zhu@vanderbilt.edu).
 
-
-This repository is actively maintained and the published version will be on [Zenodo](https://doi.org/10.5281/zenodo.13937106).
+**This repository is actively maintained and the published version will be on [Zenodo](https://doi.org/10.5281/zenodo.13937106).**
 
 ## Contributors
 * [Junda Zhu](mailto:junda.zhu@vanderbilt.edu)
